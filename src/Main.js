@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import Home from "./Home";
 import Stuff from "./Stuff";
+import SocialFollow from "./SocialFollow";
 
 class Main extends Component {
     render() {
@@ -21,6 +22,7 @@ class Main extends Component {
             <Route exact path="/" component={Home}/>
             <Route path="/stuff" component={Stuff}/>
           </div>
+          <SocialFollow />
         </div>
         </HashRouter>
     );

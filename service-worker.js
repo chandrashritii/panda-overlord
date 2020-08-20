@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/panda-overlord/precache-manifest.04babf7ca326758b5e0a16eba2f55ec0.js"
+  "/panda-overlord/precache-manifest.e50520a115f0536beeafb87097db90fc.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/panda-overlord/static/css/main.c4fbfffc.chunk.css",
+    "main.js": "/panda-overlord/static/js/main.5fb7590e.chunk.js",
+    "main.js.map": "/panda-overlord/static/js/main.5fb7590e.chunk.js.map",
+    "runtime-main.js": "/panda-overlord/static/js/runtime-main.36b5468f.js",
+    "runtime-main.js.map": "/panda-overlord/static/js/runtime-main.36b5468f.js.map",
+    "static/js/2.d595de8b.chunk.js": "/panda-overlord/static/js/2.d595de8b.chunk.js",
+    "static/js/2.d595de8b.chunk.js.map": "/panda-overlord/static/js/2.d595de8b.chunk.js.map",
+    "index.html": "/panda-overlord/index.html",
+    "precache-manifest.04babf7ca326758b5e0a16eba2f55ec0.js": "/panda-overlord/precache-manifest.04babf7ca326758b5e0a16eba2f55ec0.js",
+    "service-worker.js": "/panda-overlord/service-worker.js",
+    "static/css/main.c4fbfffc.chunk.css.map": "/panda-overlord/static/css/main.c4fbfffc.chunk.css.map",
+    "static/js/2.d595de8b.chunk.js.LICENSE.txt": "/panda-overlord/static/js/2.d595de8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b5468f.js",
+    "static/js/2.d595de8b.chunk.js",
+    "static/css/main.c4fbfffc.chunk.css",
+    "static/js/main.5fb7590e.chunk.js"
+  ]
+}
